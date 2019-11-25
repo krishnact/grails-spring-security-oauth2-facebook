@@ -3,6 +3,10 @@ Spring Security OAuth2 Facebook Plugin
 [ ![Download](https://api.bintray.com/packages/matrixcrawler/plugins/spring-security-oauth2-facebook/images/download.svg) ](https://bintray.com/matrixcrawler/plugins/spring-security-oauth2-facebook/_latestVersion)
 
 Add a Google OAuth2 provider to the [Spring Security OAuth2 Plugin](https://github.com/MatrixCrawler/grails-spring-security-oauth2).
+Building:
+------------
+gradlew --info build install
+
 
 Installation
 ------------
